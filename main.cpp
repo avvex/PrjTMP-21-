@@ -1,5 +1,12 @@
 #include <QCoreApplication>
 
+class Stack
+{
+
+    public:
+    bool push(int k);
+
+};
 class A
 {
    public:
