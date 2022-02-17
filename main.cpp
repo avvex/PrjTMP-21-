@@ -1,5 +1,28 @@
 #include <QCoreApplication>
 
+class Stack
+{
+
+    public:
+    bool push(int k);
+
+};
+class A
+{
+   public:
+
+
+
+};
+
+class B
+{
+   public:
+
+
+
+};
+
 int main(int argc, char *argv[])
 {
 
